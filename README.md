@@ -1,4 +1,4 @@
-# Static Search Tree Research
+# Static Search Tree Research as described on https://curiouscoding.nl/posts/static-search-tree/
 
 **Implementing static search trees: 40x faster than binary search in different languages using AI**
 
